@@ -1,0 +1,10 @@
+Photogrammetry is a technique used to measure and create three-dimensional models of objects or scenes using photographs. The process involves taking multiple photos of the object or scene from different angles and then using specialized software to extract three-dimensional information from the images.
+The process of photogrammetry involves:
+1. Planning and preparation: Determine the object or scene to be captured, select the appropriate camera and lens, and plan the image capture process.
+2. Image acquisition: Capture a series of photographs of the object or scene from multiple angles, using a tripod or other stabilizing device to ensure consistency in the images.
+3. Image processing: Import the images into photogrammetry software and use algorithms to identify common points and create a point cloud. This involves automatic or manual image matching, and sometimes filtering.
+4. Dense point cloud generation: Process the point cloud data to create a dense point cloud, which includes more points and more detailed information.
+5. Mesh generation: Use the dense point cloud to generate a 3D mesh, which represents the surface of the object or scene in three dimensions.
+6. Texture mapping: Apply the original photographs to the 3D model to create a textured model, which includes the colors and details of the original object or scene.
+7. Cleaning and refining: Edit and refine the 3D model as needed, to remove any errors or inaccuracies, and improve the overall quality of the model.
+8. Export: Export the final 3D model in a format that can be used for visualization, analysis, or other applications. Common formats include .OBJ, .FBX, .PLY, .STL, etc.(I have prepared by using .FBX, U can use anything as per your choice!!)
